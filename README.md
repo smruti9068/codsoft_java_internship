@@ -26,6 +26,7 @@ Java programming for codsoft internship:-
   7. Display the user's score, which can be based on the number of attempts taken or rounds won.
 
 ~~Student_Grade_Calculator:-
+
     Input: Take marks obtained (out of 100) in each subject.
     Calculate Total Marks: Sum up the marks obtained in all subjects.
     Calculate Average Percentage: Divide the total marks by the total number of subjects to get the
