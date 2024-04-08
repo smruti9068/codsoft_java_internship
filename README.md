@@ -1,4 +1,4 @@
-# codsoft_java_internship
+# codsoft
 Java programming for codsoft internship:-
 
 ~~ATM Machine:-
